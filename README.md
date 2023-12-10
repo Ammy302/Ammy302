@@ -1,3 +1,5 @@
+![logo](https://github.com/Ammy302/Ammy302/blob/main/Screenshot%20from%202023-12-10%2017-28-59.png)
+
 <h1 align="center">Hi 👋, I'm Amish Raza</h1>
 <h3 align="center">Passionate frontend developer with a keen eye for design and user experience. Proficient in HTML, CSS, and JavaScript.</h3>
 
